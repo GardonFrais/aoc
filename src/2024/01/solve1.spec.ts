@@ -1,4 +1,4 @@
-import { solve } from "./solve";
+import { solve } from "./solve1";
 
 describe("01 2024", () => {
   test("Should solve 01 2024 first step", () => {
