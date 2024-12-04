@@ -1,3 +1,3 @@
-import { solve } from "./2024/02/solve2";
+import { solve } from "./2024/03/solve1";
 
-console.log(solve("src/2024/02/input.txt"));
+console.log(solve("src/2024/03/input.txt"));
